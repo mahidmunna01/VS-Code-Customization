@@ -1,7 +1,7 @@
 # VS-Code-Customization by Mahid Munna
 
 {
-    "editor.fontSize": 20,
+    "editor.fontSize": 18,
     "editor.tabSize": 2,
     "editor.wordWrap": "on",
     "editor.cursorSmoothCaretAnimation": "on",
